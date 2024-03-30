@@ -1,0 +1,47 @@
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.exe.config
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.exe
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.pdb
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\obj\Debug\aula_13_de_março.Form1.resources
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\obj\Debug\aula_13_de_março.Properties.Resources.resources
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.exe
+C:\Users\unisanta\source\repos\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.pdb
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.exe.config
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.exe
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.pdb
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.AssemblyReference.cache
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula_13_de_março.Form1.resources
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula_13_de_março.Properties.Resources.resources
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.GenerateResource.cache
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.CoreCompileInputs.cache
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.exe
+D:\Faculdade\[SEMESTRE 3]\Aplicacao para Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.pdb
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.exe.config
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.exe
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.pdb
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula_13_de_março.Form1.resources
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula_13_de_março.Properties.Resources.resources
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.exe
+C:\Users\unisanta\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.pdb
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.exe.config
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.exe
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\bin\Debug\aula 13 de março.pdb
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.AssemblyReference.cache
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula_13_de_março.Form1.resources
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula_13_de_março.Properties.Resources.resources
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.GenerateResource.cache
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.CoreCompileInputs.cache
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.exe
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.pdb
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\bin\Debug\xunit.assert.dll
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\bin\Debug\xunit.assert.xml
+C:\Users\luanc\Desktop\aula 13 de março\aula 13 de março\obj\Debug\aula 13 de março.csproj.CopyComplete
